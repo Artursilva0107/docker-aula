@@ -6,7 +6,13 @@
     <title>Document</title>
 </head>
 <body>
+
     <h1>meu html</h1>
-    <p>teste</p>
+ $
+    <?php 
+    $nome = "Artur";
+    echo"<h2> ola $nome !! </h2>"
+    ?>
+
 </body>
 </html>
